@@ -1,0 +1,45 @@
+ body {
+      position: relative; 
+  }
+  #about {padding-top:50px;margin-bottom:1px;}
+  #terms {padding-top:50px;margin-bottom:1px;}
+  #section3 {padding-top:50px;margin-bottom:1px;}
+  #section41 {padding-top:50px;margin-bottom:1px;}
+  #section42 {padding-top:50px;}
+  .banner{
+    width: 100%;
+    padding-top: 50px;
+    margin-bottom: 5px;
+  }
+  .matt{
+    width:150px;
+    padding:5px;
+    margin:0px;
+  }
+
+  .bg-blue{
+background-color: #516d76;
+
+  }
+
+  .bg-white{
+background-color: #f2f1d9;
+
+  }
+
+  .text-blue{
+color: #516d76;
+
+  }
+
+  .text-white{
+color: #f2f1d9;
+
+  }
+
+p{
+  font-size:2em;
+  text-indent:5px;
+}
+
+
